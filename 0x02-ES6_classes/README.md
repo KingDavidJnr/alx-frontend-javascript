@@ -29,13 +29,13 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/KingDavidJnr/alx-frontend-javascript
    ```
 
 2. **Navigate to the Project Directory:** Change your current directory to the project directory:
 
    ```
-   cd es6-classes-project
+   cd 0x02-ES6_classes
    ```
 
 3. **Explore the Code:** Browse through the project files and directories to understand the examples and concepts related to ES6 classes.
